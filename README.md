@@ -19,5 +19,5 @@ The system works by:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/news-recommendation.git
-cd news-recommendation
+git clone https://github.com/RodainaMOe/articles_recommendation.git
+cd articles_recommendationa
